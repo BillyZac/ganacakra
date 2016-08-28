@@ -1,0 +1,20 @@
+@import 'https://fonts.googleapis.com/css?family=Lora|Open+Sans';
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4rem;
+  color: #555;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-family: 'Lora', serif;
+}
+
+.message {
+  margin-top: 150px;
+  padding: 50px;
+  width: 400px;
+}
